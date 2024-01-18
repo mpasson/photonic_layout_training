@@ -46,3 +46,7 @@
 1. Go to the [Download](https://www.klayout.de/build.html) section of Klayout website.
 2. Download the version compatible with your operating system and install it (for windows select 64bit installer).
 3. Install it following the guided procedure.
+
+## Training material
+
+The training will make use of the file contained in [nazca_training.zip](./nazca_training.zip).
